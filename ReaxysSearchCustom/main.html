@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+    <script src="reaxys-search-custom.js"></script>
+
+    <head>
+        <style>
+            body {
+                background-color: WhiteSmoke;
+            }
+        </style>
+
+        <title>Reaxys search thingy</title>
+    </head>
+
+    <body onload="onLoadBody()" style="padding:5px">
+        <div style="text-align:center">
+            <h2>Reaxys search thingy</h2>
+			<div>
+				<button type="button" onclick="doSearch('S','SMILES')">Structure search</button>
+				<button type="button" onclick="doSearch('R','SMILES')">Reaction search</button>
+            </div>
+			<hr/>
+            <div id="message-box" title="Query structure"></div>
+        </div>
+    </body>
+
+</html>

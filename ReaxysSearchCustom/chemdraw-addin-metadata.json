@@ -1,0 +1,16 @@
+{
+	"description": "Add-in to do a Reaxys structure search via a custom remote-access URL.",
+	"isModalDialog": false,
+	"menuItemText": "Reaxys search custom",
+	"minimumAPIVersion": "1.1",
+	"url": "main.html",
+	"version": "0.1",
+	"enableCommandOnSelection": true,
+	"toolbar": {
+		"image24": "resources/icon24.png",
+		"image32": "resources/icon32.png",
+		"image48": "resources/icon48.png",
+		"image64": "resources/icon64.png",
+		"tooltip": "Open Reaxys search (custom)"
+	}
+}
