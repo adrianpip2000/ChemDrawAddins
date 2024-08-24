@@ -1,6 +1,6 @@
 {
 	"sourceName": "ChemDraw add-ins from GitHub user adrianpip2000",
 	"addins":[
-		"https://raw.githubusercontent.com/adrianpip2000/ChemDrawAddins/main/ReaxysSearchCustom/chemdraw-addin-metadata.json"
+		"https://github.com/adrianpip2000/ChemDrawAddins/blob/08f6765cf035a0ea0f4ecd99bb110252b6e4f77b/Reaxys%20Search%20Custom/chemdraw-addin-metadata.json"
 	]
 }
